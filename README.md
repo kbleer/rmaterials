@@ -7,3 +7,7 @@ R과 Python으로 데이터를 분석, 비지니스 인사이트를 도출합니
 ### Data Mining
 ### EDA Visualization
 ### DB Marketing
+
+***
+
+현재는 github 채널을 구축 중이며, ++Danny++가 멘토링을 해주고 있습니다.
