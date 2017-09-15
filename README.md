@@ -8,11 +8,5 @@ R과 Python으로 데이터를 분석, 비지니스 인사이트를 도출합니
 ### EDA Visualization
 ### DB Marketing
 
-***
+------------------------------------------------
 
-현재는 github 채널을 구축 중이며, ***Danny가 멘토링을 해주고 있습니다.
-
-090717
-1. jyupyter 에서 교재처럼 내 코멘트를 넣는 법
-2. jyupyter 파일을 github에 올렸는데 제대로 코드가 보이지 않는 것 같다.
-3. jyupyter 잡다한 단축키? shell을 지우는 법, running 하는 법 등등.
